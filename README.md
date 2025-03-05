@@ -4,7 +4,7 @@
 
 This will output the information for the system battery/batteries if there is more than one.
 
-#### storage/battery_data.txt
+#### ./storage/battery_data.txt
 
 If this you use either of the following > or >> after
 
