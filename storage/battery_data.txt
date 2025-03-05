@@ -1,0 +1,56 @@
+  native-path:          BAT0
+  vendor:               SANYO
+  model:                01AV419
+  serial:               993
+  power supply:         yes
+  updated:              Tue 04 Mar 2025 07:10:33 PM EST (11 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               fully-charged
+    warning-level:       none
+    energy:              17.7 Wh
+    energy-empty:        0 Wh
+    energy-full:         17.7 Wh
+    energy-full-design:  24.02 Wh
+    energy-rate:         0 W
+    voltage:             13 V
+    charge-cycles:       266
+    percentage:          100%
+    capacity:            73.6886%
+    technology:          lithium-ion
+    charge-start-threshold:        75%
+    charge-end-threshold:          80%
+    charge-threshold-supported:    yes
+    icon-name:          'battery-full-charged-symbolic'
+
+  native-path:          BAT1
+  vendor:               LGC
+  model:                01AV490
+  serial:               329
+  power supply:         yes
+  updated:              Tue 04 Mar 2025 07:10:33 PM EST (11 seconds ago)
+  has history:          yes
+  has statistics:       yes
+  battery
+    present:             yes
+    rechargeable:        yes
+    state:               fully-charged
+    warning-level:       none
+    energy:              20.11 Wh
+    energy-empty:        0 Wh
+    energy-full:         20.11 Wh
+    energy-full-design:  23.94 Wh
+    energy-rate:         0 W
+    voltage:             12.748 V
+    charge-cycles:       55
+    percentage:          100%
+    capacity:            84.0017%
+    technology:          lithium-polymer
+    charge-start-threshold:        75%
+    charge-end-threshold:          80%
+    charge-threshold-supported:    yes
+    icon-name:          'battery-full-charged-symbolic'
+
