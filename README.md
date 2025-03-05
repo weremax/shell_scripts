@@ -13,9 +13,6 @@ If this you use either of the following > or >> after
 ./battery_check.sh >> storage/battery_data.txt
 ```
 
-```
-
 &gt; will overwrite
 
-&gt; &gt; will append
-```
+&gt;&gt; will append
