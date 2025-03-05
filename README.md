@@ -12,4 +12,4 @@ The above code will write the output to ./storage/battery_data.txt
 
 ## file_count.sh
 
-This will output the number of
+This will output the number of files in the directory.
