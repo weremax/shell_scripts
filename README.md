@@ -1,6 +1,6 @@
 # shell_scripts
 
-### battery_check.sh
+## battery_check.sh
 
 This will output the information for the system battery/batteries if there is more than one.
 
@@ -16,6 +16,6 @@ If this you use either of the following > or >> after
 &gt; will overwrite
 &gt;&gt; will append
 
-### file_count.sh
+## file_count.sh
 
 This will output the number of
